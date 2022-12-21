@@ -47,6 +47,5 @@
   },
   "devDependencies": {
     "msw": "^0.35.0"
-  },
-  
+  }
 }
